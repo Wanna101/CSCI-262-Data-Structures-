@@ -1,0 +1,38 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/MinGW/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=C:/MinGW/mingw64/bin/g++.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\User\CLionProjects\csci262\lab01
+-- The C compiler identification is unknown
+-- The CXX compiler identification is unknown
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/MinGW/mingw64/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/mingw64/bin/gcc.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2021.2.1/bin/cmake/win/share/cmake-3.20/Modules/CMakeTestCCompiler.cmake:66 (message):
+  The C compiler
+
+    "C:/MinGW/mingw64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/User/CLionProjects/csci262/lab01/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/MinGW/mingw64/bin/mingw32-make.exe -f Makefile cmTC_dbe59/fast && C:/MinGW/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_dbe59.dir\build.make CMakeFiles/cmTC_dbe59.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/User/CLionProjects/csci262/lab01/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building C object CMakeFiles/cmTC_dbe59.dir/testCCompiler.c.obj
+    C:\MinGW\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_dbe59.dir\testCCompiler.c.obj -c C:\Users\User\CLionProjects\csci262\lab01\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c
+    mingw32-make.exe[1]: *** [CMakeFiles\cmTC_dbe59.dir\build.make:77: CMakeFiles/cmTC_dbe59.dir/testCCompiler.c.obj] Error 1
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/User/CLionProjects/csci262/lab01/cmake-build-debug/CMakeFiles/CMakeTmp'
+    mingw32-make.exe: *** [Makefile:126: cmTC_dbe59/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/User/CLionProjects/csci262/lab01/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/User/CLionProjects/csci262/lab01/cmake-build-debug/CMakeFiles/CMakeError.log".
