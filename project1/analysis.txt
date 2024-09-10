@@ -1,0 +1,17 @@
+16
+INTJ Analysts Architect Imaginative and strategic thinkers, with a plan for everything
+INTP Analysts Logician Innovative inventors with an unquenchable thirst for knowledge
+ENTJ Analysts Commander Bold, imaginative and strong-willed leaders, always finding a way - or making one
+ENTP Analysts Debater Smart and curious thinkers who cannot resist an intellectual challenge
+INFJ Diplomats Advocate Quiet and mystical, yet very inspiring and tireless idealists
+INFP Diplomats Mediator Poetic, kind and altruistic people, always eager to help a good cause
+ENFJ Diplomats Protagonist Charismatic and inspiring leaders, able to mesmerize their listeners
+ENFP Diplomats Campaigner Enthusiastic, create and sociable free spirits, who can always find a reason to smile
+ISTJ Sentinels Logistician Practical and fact-minded individuals, whose reliability cannot be doubted
+ISFJ Sentinels Defender Very dedicated and warm protectors, always ready to defend their loved ones
+ESTJ Sentinels Executive Excellent administrators, unsurpassed at managing things - or people
+ESFJ Sentinels Consul Extraordinarily caring, social and popular people, always eager to help
+ISTP Explorers Virtuoso Bold and practical experimenters, masters of all kinds of tools
+ISFP Explorers Adventurer Flexible and charming artists, always ready to explore and experience something new
+ESTP Explorers Entrepreneur Smart, energetic and very perceptive people, who truly enjoy living on the edge
+ESFP Explorers Entertainer Spontaneous, energetic and enthusiastic people - life is never boring around them
